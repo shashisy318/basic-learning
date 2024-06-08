@@ -1,4 +1,4 @@
 # basic-learning
 My first Git Repository
 <Br>
-its me Shashi Shekhar
+Its me Shashi Shekhar
